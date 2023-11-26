@@ -36,7 +36,7 @@ Note: This project is a testament to the potential of deep learning in medical i
 ## Code
 Find the source code for the project in the directory.
 
-## Dataset
-The dataset used for training and testing the model can be accessed <a href="https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database">.
+## Datasetink
+The dataset used for training and testing the model can be accessed <a href="https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database">DataSet Link</a>
 
 </body>

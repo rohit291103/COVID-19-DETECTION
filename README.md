@@ -5,10 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> COVID-19 Prediction using Chest X-rays </title>
 </head>
 <body>
-## Project Description
+    <h1>COVID-19 PREDICTION USING CHEST X_RAYS</h1>
 <p>In response to the global COVID-19 pandemic, this project leverages the power of Deep Learning (DL) to develop an accurate and efficient system for detecting COVID-19 from Chest X-ray images. The motivation behind this initiative is to provide a reliable and rapid diagnostic tool that aids healthcare professionals in identifying potential COVID-19 cases, particularly in resource-constrained environments.</p>
 <p>
     In response to the global COVID-19 pandemic, this project leverages the power of Deep Learning (DL) to develop an accurate and efficient system for detecting COVID-19 from Chest X-ray images. The motivation behind this initiative is to provide a reliable and rapid diagnostic tool that aids healthcare professionals in identifying potential COVID-19 cases, particularly in resource-constrained environments.

@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{ COVID-19 Prediction using Chest X-rays</title>
+    <title>COVID-19 Prediction using Chest X-rays</title>
 </head>
 <body>
 
